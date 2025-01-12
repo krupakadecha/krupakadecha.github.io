@@ -1,6 +1,6 @@
 ---
 title: "Road Sign Detection"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+excerpt: "The road sign detection project involved training a YOLO model to accurately identify German road signs. The model was trained using the German Road Sign dataset sourced from Kaggle, enabling efficient detection and classification of various road signs. <br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
